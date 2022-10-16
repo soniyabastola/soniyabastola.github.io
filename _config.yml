@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Soniya Bastola"
   avatar           : "profile.png"
-  bio              : "Glowing and Growing"
+  bio              : "A business development enthusiast with demonstrated history of working in a not for profit organization and various events. Strong human resources professional with a Bachelor's degree focused in Biotechnology from Kathmandu University, Nepal. I am an avid learner working with teams for youth leadership and empowerment."
   location         : "Pokhara, Nepal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "soniyabastola@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "soniyabastola.yt"
   foursquare       :
   github           : "soniyabastola"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "soniya-bastola-b89328214"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
