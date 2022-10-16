@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Soniya Bastola"
 title_separator          : "-"
 name                     : &name "Soniya Bastola"
 description              : &description "Personal Blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Soniya Bastola"
   avatar           : "profile.jpg"
-  bio              : "A business development enthusiast with demonstrated history of working in a not for profit organization and various events. Strong human resources professional with a Bachelor's degree focused in Biotechnology from Kathmandu University, Nepal. I am an avid learner working with teams for youth leadership and empowerment."
+  bio              : "Glowing and Growing"
   location         : "Pokhara, Nepal"
   employer         :
   pubmed           : 
