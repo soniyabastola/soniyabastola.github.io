@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Soniya Bastola"
 title_separator          : "-"
-name                     : &name "Soniya Bastola"
+name                     : "Soniya Bastola"
 description              : "Personal Blog"
 url                      : https://soniyabastola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "soniyabastola.yt"
   foursquare       :
-  github           : "soniyabastola"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
